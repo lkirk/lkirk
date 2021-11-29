@@ -1,8 +1,13 @@
 ### lkirk
 
-My github account contains a mixture of hobby code, analysis code, tools I've created and failed ideas.
+Hello, I'm Lloyd.
+In my professional life, I spend my time in the computational biology world, analyzing data and writing code.
+In my personal life, I spend time tinkering with programming language design, programming languages I want to learn, operating systems, window managers, and side-projects for work (as of late, I've been focusing on container technologies).
+Some of my code (especially the newer stuff) has a license.
+If you have any questions about licensing, etc. please reach out.
 
-### Organization of projects:
+
+Here's an attempt at categorizing my current repositories:
 
 #### Singularity tools:
 * [lkirk/nb-env](https://github.com/lkirk/nb-env)
