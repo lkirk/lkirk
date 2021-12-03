@@ -37,6 +37,7 @@ Here's an attempt at categorizing my current repositories:
 * [lkirk/kalesville](https://github.com/lkirk/kalesville)
 
 #### Misc:
+* [lkirk/jupyter-workspace-manager](https://github.com/lkirk/jupyter-workspace-manager)
 * [lkirk/gridengine-docker](https://github.com/lkirk/gridengine-docker)
 * [lkirk/scihub-dl](https://github.com/lkirk/scihub-dl)
 
