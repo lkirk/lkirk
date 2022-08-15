@@ -1,1 +1,1 @@
-### lkirk
+Hi there, I'm a software enthusiast who is entering graduate school to study population genetics and statistics. As an enthusiast, I am interested in programming language design, operating systems, window managers, and embedded systems. As an engineer, I'm interested in scientific computing, high performance computing, and container technologies. As a scientist, I'm interested in statistical modeling, population structure, structural variant calling, and sequencing technologies.
